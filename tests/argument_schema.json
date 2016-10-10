@@ -1,0 +1,12 @@
+[
+  {
+    "name": "argument1",
+    "type": "string",
+    "optional": false
+  },
+  {
+    "name": "--argument2",
+    "type": "string",
+    "optional": true
+  }
+]
