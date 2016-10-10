@@ -4,7 +4,7 @@
   "description": "Converts process arguments into a map",
   "main": "index.js",
   "scripts": {
-    "test": "node ./example/example.js --argument1 arg1 --argument2 arg2"
+    "test": "node ./example/example.js argument1 arg1 --argument2 arg2"
   },
   "repository": {
     "type": "git",
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/benmoran18/nodejs-process-argument-converter/issues"
   },
-  "homepage": "https://github.com/benmoran18/nodejs-process-argument-converter#readme",
-  "dependencies": {
-    "jsonschema": "^1.1.0"
-  }
+  "homepage": "https://github.com/benmoran18/nodejs-process-argument-converter#readme"
 }
