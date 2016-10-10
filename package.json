@@ -4,7 +4,7 @@
   "description": "Converts process arguments into a map",
   "main": "index.js",
   "scripts": {
-    "test": "node ./tests/test.js --argument1 arg1 --argument2 arg2"
+    "test": "node ./example/example.js --argument1 arg1 --argument2 arg2"
   },
   "repository": {
     "type": "git",
